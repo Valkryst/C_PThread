@@ -1,6 +1,6 @@
-The foci of this repository are the [thread.c](https://github.com/Valkryst/C_PThread/master/src/thread.c)
-and [thread.h](https://github.com/Valkryst/C_PThread/master/src/thread.h)
-files. They simplify the creation, destruction, and use of [POSIX Threads](https://en.wikipedia.org/wiki/Pthreads).
+The foci of this repository are the [thread.c](https://github.com/Valkryst/C_PThread/blob/main/src/thread.c)
+and [thread.h](https://github.com/Valkryst/C_PThread/blob/main/src/thread.h)
+files. They simplify the creation and destruction of [POSIX Threads](https://en.wikipedia.org/wiki/Pthreads).
 
 ## Compiling
 
@@ -8,7 +8,7 @@ Add `thread.c` and `thread.h` to your project, and add
 [-pthread flag](https://stackoverflow.com/a/2127819/13279616) to your compile
 flags.
 
-See the provided [Makefile](https://github.com/Valkryst/C_PThread/master/Makefile)
+See the provided [Makefile](https://github.com/Valkryst/C_PThread/blob/main/Makefile)
 as a reference.
 
 ## Dependencies
